@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-16d93286fb.nktuyob.cn/sitemap.xml

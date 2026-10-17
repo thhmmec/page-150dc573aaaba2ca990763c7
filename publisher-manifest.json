@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "02e0fc3784d32fe1976d80cc",
+  "owner": "thhmmec",
+  "repo": "page-150dc573aaaba2ca990763c7",
+  "title": "奈云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "150dc573aaaba2ca990763c7",
+      "a": "奈云",
+      "b": "",
+      "entity": "奈云",
+      "brand": "奈云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1213fd60ea48ec06957d56d66836fcbebbbb439c6dd171ef823ce2950f771f37",
+      "content": {
+        "keyword1": "奈云",
+        "keyword2": "",
+        "primary_entity": "奈云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "奈云专注于提供高质量的专线网络加速服务，采用克制的工程理念与稳定的节点架构。我们提供基础版、旗舰版及团队版服务，满足从个人浏览到企业定制的多场景需求。",
+          "AI_DESCRIPTION": "奈云专注于提供高质量的专线网络加速服务，采用克制的工程理念与稳定的节点架构。我们提供基础版、旗舰版及团队版服务，满足从个人浏览到企业定制的多场景需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg: #0A0A0A;--ink: #F5F5F5;--dim: #888888;--accent: #39FF14;--line: #1E1E1E;--card: #121212;--serif: Georgia, \"Times New Roman\", \"Songti SC\", serif;--sans: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif;--mono: \"SF Mono\", \"Cascadia Code\", Consolas, monospace}\n\n*{box-sizing: border-box;margin: 0;padding: 0}\n\nbody{background: var(--bg);color: var(--ink);font-family: var(--sans);line-height: 1.6;-webkit-font-smoothing: antialiased}\n\nmain, header, section{display: block}\n\na{color: inherit;text-decoration: none}\n\nh1, h2, h3{font-weight: 700;line-height: 1.15}\n\nh1{font-family: var(--serif)}\n\nh2{font-family: var(--serif);font-size: 2rem}\n\nh3{font-size: 1.1rem;font-family: var(--sans);letter-spacing: 0.02em}\n\np{color: #D0D0D0;font-size: 0.95rem}\n\n/* Breadcrumb Nav */\nheader{border-bottom: 1px solid var(--line);padding: 12px 32px;position: sticky;top: 0;background: rgba(10,10,10,0.95);backdrop-filter: blur(10px);z-index: 100;display: flex;align-items: center;gap: 24px}\n\n.breadcrumb{font-size: 0.75rem;color: var(--dim);font-family: var(--mono);flex-shrink: 0}\n\n.breadcrumb span{margin: 0 6px;opacity: 0.5}\n\nnav{display: flex;gap: 20px;flex-wrap: wrap}\n\nnav a{font-size: 0.8rem;color: #999;border-bottom: 1px solid transparent;transition: color 0.2s, border-color 0.2s}\n\nnav a:hover{color: var(--accent);border-color: var(--accent)}\n\n/* Magazine Hero */\n.hero{padding: 48px 32px 64px;border-bottom: 1px solid var(--line);display: grid;grid-template-columns: repeat(12, 1fr);gap: 24px;max-width: 1400px;margin: 0 auto}\n\n.hero-meta{grid-column: 1 / 3;border-right: 1px solid var(--line);padding-right: 16px;font-size: 0.7rem;color: var(--dim);font-family: var(--mono);display: flex;flex-direction: column;gap: 12px}\n\n.hero-meta strong{color: var(--accent);display: block;font-weight: 400}\n\n.hero-title{grid-column: 3 / 10}\n\n.hero-title h1{font-size: 4.5rem;margin-bottom: 24px;letter-spacing: -0.02em}\n\n.hero-title h1 em{color: var(--accent);font-style: italic}\n\n.hero-lede{font-family: var(--serif);font-size: 1.2rem;color: #bbb;line-height: 1.5;font-style: italic;border-left: 2px solid var(--accent);padding-left: 16px}\n\n.hero-pull{grid-column: 10 / 13;border-left: 1px solid var(--line);padding-left: 16px;font-size: 0.8rem;color: var(--dim);align-self: end}\n\n.hero-pull strong{display: block;font-size: 1.5rem;color: var(--ink);font-family: var(--serif);margin-bottom: 8px}\n\n/* Q&A Intro */\n.qa-intro{padding: 80px 32px;border-bottom: 1px solid var(--line);display: grid;grid-template-columns: 1fr 2fr;gap: 48px;max-width: 1400px;margin: 0 auto}\n\n.qa-intro h2{font-size: 1.5rem;align-self: start;position: sticky;top: 100px}\n\n.qa-list{display: flex;flex-direction: column;gap: 32px}\n\n.qa-item{border-bottom: 1px dashed #333;padding-bottom: 24px}\n\n.qa-item h3{color: var(--accent);font-size: 1.1rem;margin-bottom: 12px}\n\n.qa-item h3::before{content: \"Q. \";opacity: 0.6}\n\n.qa-item p{color: #ccc}\n\n.qa-item p::before{content: \"A. \";color: var(--accent);font-weight: bold}\n\n/* Service Principles */\n.principles{padding: 80px 32px;border-bottom: 1px solid var(--line);max-width: 1400px;margin: 0 auto}\n\n.principles h2{margin-bottom: 40px;font-size: 1.8rem;border-bottom: 1px solid #333;padding-bottom: 16px}\n\n.card-grid{display: grid;grid-template-columns: repeat(3, 1fr);gap: 24px}\n\n.principle-card{position: relative;background: var(--card);padding: 32px 24px 24px;overflow: hidden;min-height: 240px}\n\n.principle-card .num{position: absolute;bottom: -20px;right: 10px;font-size: 8rem;color: #1E1E1E;font-family: var(--serif);font-weight: 900;line-height: 1;z-index: 0}\n\n.principle-card .content{position: relative;z-index: 1}\n\n.principle-card h3{color: var(--accent);margin-bottom: 12px}\n\n/* Plans Table */\n.plans{padding: 80px 32px;border-bottom: 1px solid var(--line);max-width: 1400px;margin: 0 auto}\n\n.plans h2{margin-bottom: 16px}\n\n.plans > p{margin-bottom: 40px;color: var(--dim)}\n\n.plans-table{width: 100%;border-collapse: collapse;font-size: 0.9rem}\n\n.plans-table th, .plans-table td{padding: 16px 12px;text-align: left;border-bottom: 1px solid var(--line);vertical-align: top}\n\n.plans-table thead th{font-size: 0.75rem;color: var(--dim);font-weight: 400;text-transform: uppercase;letter-spacing: 0.1em;border-bottom: 2px solid var(--accent)}\n\n.plans-table .plan-name{font-family: var(--serif);font-size: 1.3rem}\n\n.plans-table .plan-price{color: var(--accent);font-size: 1.1rem;font-weight: bold}\n\n.plans-table .featured-col{background: rgba(57, 255, 20, 0.03)}\n\n.plans-table .featured-tag{display: inline-block;background: var(--accent);color: var(--bg);font-size: 0.65rem;padding: 2px 6px;margin-left: 8px;vertical-align: middle}\n\n.plans-table td ul{list-style: none}\n\n.plans-table td ul li{padding: 4px 0;color: #ccc}\n\n.plans-table td ul li::before{content: \"+ \";color: var(--accent)}\n\n/* Clients */\n.clients{padding: 80px 32px;border-bottom: 1px solid var(--line);max-width: 1400px;margin: 0 auto;display: grid;grid-template-columns: 1fr 2fr;gap: 48px}\n\n.clients h2{font-size: 1.8rem}\n\n.clients-info p{margin-bottom: 16px}\n\n.clients-info code{display: block;background: var(--card);padding: 12px 16px;margin-top: 12px;font-family: var(--mono);color: var(--accent);border-left: 2px solid var(--accent);word-break: break-all}\n\n/* FAQ Two Column */\n.faq{padding: 80px 32px;border-bottom: 1px solid var(--line);max-width: 1400px;margin: 0 auto}\n\n.faq h2{margin-bottom: 40px;font-size: 1.8rem}\n\n.faq-grid{display: grid;grid-template-columns: 1fr 1fr;gap: 48px 64px}\n\n.faq-item h3{font-size: 1rem;color: var(--ink);margin-bottom: 8px}\n\n.faq-item p{font-size: 0.85rem;color: var(--dim)}\n\n/* Footer */\nfooter{padding: 32px;text-align: center;font-size: 0.75rem;color: var(--dim);font-family: var(--mono)}\n\n@media (max-width: 900px){\n  header{flex-direction: column;align-items: flex-start;gap: 8px}\n  \n  .hero{grid-template-columns: 1fr;padding: 32px 20px}\n  .hero-meta{grid-column: 1;border-right: none;border-bottom: 1px solid var(--line);padding-bottom: 16px;flex-direction: row;flex-wrap: wrap}\n  .hero-title{grid-column: 1}\n  .hero-title h1{font-size: 2.5rem}\n  .hero-pull{grid-column: 1;border-left: none;border-top: 1px solid var(--line);padding-top: 16px}\n  \n  .qa-intro{grid-template-columns: 1fr;padding: 40px 20px}\n  .qa-intro h2{position: static}\n  \n  .card-grid{grid-template-columns: 1fr}\n  \n  .plans-table{display: block;overflow-x: auto}\n  \n  .clients{grid-template-columns: 1fr}\n  \n  .faq-grid{grid-template-columns: 1fr}\n}\n</style><header>\n  <div class=\"breadcrumb\">奈云 <span>/</span> 网络服务 <span>/</span> 概览</div>\n  <nav>\n    <a href=\"#about\">关于</a>\n    <a href=\"#principles\">原则</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#clients\">接入</a>\n    <a href=\"#faq\">问答</a>\n  </nav>\n</header>\n\n<main>\n  <section class=\"hero\" id=\"about\">\n    <div class=\"hero-meta\">\n      <span>第 06 期</span>\n      <strong>工程与克制</strong>\n      <span>2024 春季刊</span>\n      <span>网络基建专题</span>\n    </div>\n    <div class=\"hero-title\">\n      <h1>奈云 · 在喧嚣的管道之间，我们选择做一条<em>安静</em>的通道。</h1>\n      <div class=\"hero-lede\">奈云不追求无意义的加法。我们关注每一次握手的延迟，关注每一次回程的丢包，关注你在阅读、通话与探索时，网络是否依然隐于无形。</div>\n    </div>\n    <div class=\"hero-pull\">\n      <strong>99.9%</strong>\n      过去十二个月线路平均可用率。稳定不是口号，是每一毫秒的工程结果。\n    </div>\n  </section>\n\n  <section class=\"qa-intro\">\n    <h2>你需要怎样的网络？</h2>\n    <div class=\"qa-list\">\n      <article class=\"qa-item\">\n        <h3>只是想顺畅地读完一封邮件，为什么总会卡顿？</h3>\n        <p>网络拥堵往往发生在不可见的国际出口。奈云通过优化的 BGP 路由策略，为你避开拥堵节点，寻找当前环境下最通畅的物理路径，让基础浏览回归本应有的顺畅。</p>\n      </article>\n      <article class=\"qa-item\">\n        <h3>看高码率视频时，缓冲圈为何总在关键时刻出现？</h3>\n        <p>这通常是由于跨境链路带宽波动所致。我们为你提供充足的峰值带宽冗余，并在核心节点部署大容量缓存，以应对晚间高峰时段的流量冲击。</p>\n      </article>\n      <article class=\"qa-item\">\n        <h3>多人协作时，如何保证每个人的连接都一样稳定？</h3>\n        <p>团队协作需要一致的体验。奈云团队版允许你为不同成员分配独立线路策略，并通过集中式管理面板监控整体流量流向，确保关键业务不受非关键应用挤占。</p>\n      </article>\n    </div>\n  </section>\n\n  <section class=\"principles\" id=\"principles\">\n    <h2>奈云的工程笔记</h2>\n    <div class=\"card-grid\">\n      <div class=\"principle-card\">\n        <div class=\"num\">01</div>\n        <div class=\"content\">\n          <h3>路径优先</h3>\n          <p>我们不迷信单一协议。根据时段与地区，系统会在多种传输协议间动态切换，只为寻找当下延迟最低的那条路。</p>\n        </div>\n      </div>\n      <div class=\"principle-card\">\n        <div class=\"num\">02</div>\n        <div class=\"content\">\n          <h3>带宽诚实</h3>\n          <p>标称的带宽即为实际可用的峰值。我们不通过超售来换取短期利润，宁可让线路在低谷时空闲，也不让高峰时拥塞。</p>\n        </div>\n      </div>\n      <div class=\"principle-card\">\n        <div class=\"num\">03</div>\n        <div class=\"content\">\n          <h3>隐私无痕</h3>\n          <p>除必要的计费流量统计外，我们不记录你的访问目的地与传输内容。连接日志在 24 小时后自动滚动清除。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"plans\" id=\"plans\">\n    <h2>选择你的通道</h2>\n    <p>所有套餐均支持随时升降级，按比例折算费用。</p>\n    <table class=\"plans-table\">\n      <thead>\n        <tr>\n          <th>权益对比</th>\n          <th>基础版</th>\n          <th class=\"featured-col\">旗舰版 <span class=\"featured-tag\">推荐</span></th>\n          <th>团队版</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td class=\"plan-name\">月费 / 年费</td>\n          <td><span class=\"plan-price\">¥15/月</span><br><span>¥150/年</span></td>\n          <td class=\"featured-col\"><span class=\"plan-price\">¥35/月</span><br><span>¥350/年</span></td>\n          <td><span class=\"plan-price\">¥85/月</span><br><span>¥850/年</span></td>\n        </tr>\n        <tr>\n          <td>流量配额</td>\n          <td>每月 100GB</td>\n          <td class=\"featured-col\">每月 300GB</td>\n          <td>每月 1000GB</td>\n        </tr>\n        <tr>\n          <td>设备支持</td>\n          <td>3 台同时在线</td>\n          <td class=\"featured-col\">5 台同时在线</td>\n          <td>20 台同时在线</td>\n        </tr>\n        <tr>\n          <td>线路等级</td>\n          <td>普通节点池</td>\n          <td class=\"featured-col\">含 IPLC 游戏优化专线</td>\n          <td>VIP 高带宽专属节点</td>\n        </tr>\n        <tr>\n          <td>流媒体</td>\n          <td>基础解锁</td>\n          <td class=\"featured-col\">全节点原生解锁</td>\n          <td>全节点原生解锁</td>\n        </tr>\n        <tr>\n          <td>服务支持</td>\n          <td>标准工单</td>\n          <td class=\"featured-col\">7x24 优先工单</td>\n          <td>专属客户经理</td>\n        </tr>\n        <tr>\n          <td>高级特性</td>\n          <td>-</td>\n          <td class=\"featured-col\">-</td>\n          <td>企业定制路由支持</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n\n  <section class=\"clients\" id=\"clients\">\n    <h2>接入方式</h2>\n    <div class=\"clients-info\">\n      <p>奈云采用通用的标准代理协议构建。我们不强制要求安装特定的、不透明的第三方客户端软件。你可以使用你信任的、开源的通用客户端进行连接。</p>\n      <p>在订阅管理页面，你将获得一个通用的订阅链接。将该链接导入支持 Shadowsocks、V2Ray 或 Trojan 协议的客户端即可完成配置。</p>\n      <code>https://api.naiyun.example/sub/your_token_here</code>\n      <p>注：以上为示例链接格式，实际链接请以控制台显示为准。</p>\n    </div>\n  </section>\n\n  <section class=\"faq\" id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-grid\">\n      <article class=\"faq-item\">\n        <h3>流量用尽后会怎样？</h3>\n        <p>当月流量耗尽后，连接会被暂停，直到下个计费周期自动恢复。你可以在控制台随时购买流量加油包，或升级到更高级别套餐。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>能否测试线路质量？</h3>\n        <p>我们提供部分线路的体验测试。注册账户后，在未购买状态下可获取临时测试节点信息，通常可体验 1GB 流量或 2 小时时长。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>是否支持退款？</h3>\n        <p>首购用户在 72 小时内且使用流量不超过 5GB 的情况下，可申请无理由全额退款。续费订单不支持退款，请谨慎操作。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>团队版是否提供发票？</h3>\n          <p>是的。团队版支持开具增值税电子普通发票。你需要在控制台提交企业抬头信息，发票通常在 3 个工作日内开具完成。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>线路会被运营商干扰吗？</h3>\n        <p>网络环境时刻变化，我们无法承诺任何线路具备绝对的抗干扰能力。但运维团队 24 小时监控线路状态，一旦发现异常会立即切换备用路由。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h3>如何获取技术支持？</h3>\n        <p>所有用户均通过控制台提交工单获取支持。旗舰版用户的工单会被优先处理，团队版用户可直接联系专属客户经理。</p>\n      </article>\n    </div>\n  </section>\n</main>\n\n<footer>\n  © 2024 奈云网络 · NaiYun · 以克制构筑连接\n</footer>",
+          "hash": "6e399f27dce3f50e5fb1973e9d02c57d10eb8ddc9d8a4f4f7c8121e0a6d2f07a",
+          "seo": {
+            "title": "奈云：以稳定与克制，构筑你的数字通道 | NaiYun Network",
+            "keywords": "奈云, NaiYun, 奈云网络, 专线加速, 节点服务, 跨境网络, 隐私保护",
+            "description": "奈云专注于提供高质量的专线网络加速服务，采用克制的工程理念与稳定的节点架构。我们提供基础版、旗舰版及团队版服务，满足从个人浏览到企业定制的多场景需求。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "6130",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nktuyob.cn",
+    "host": "p-16d93286fb.nktuyob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cc4eab59853f5c46bc7699c3e67d5343eeca3cc7b874c66054e8b0135c7816af",
+    "sitemap.xml": "e15c99d456a689ddb261340180d6854c0bfd6739f02fe717f0709728f8a84d37",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "49e12ee2f96e06904085c74427bfb1da40f17e6423c45e389869eb614aa85083",
+    "robots.txt": "1a3fe5857b82689928a29c5a0543a6667b390448fdb0cbbfb41d859a78cfb5b9",
+    "05ab15822e03127afbe35894f12db38e.txt": "f60cbfa369c88035c54cf076e7a79e2653ea4100e9cd8a43aad64ca2d4a8182b"
+  },
+  "revision": "dd592af4a6e94ac2cc8135bb812a33f4a2d2cdad469428f262bdb86995b7ad52"
+}
